@@ -2,7 +2,7 @@
 🔭 I’m currently working on Azure Platform Automation<br>
 👯 I’m looking to collaborate on Ansible, TF and K8s<br>
 🤝 I’m looking for help with everything<br>
-🌱 I’m currently learning K8s<br>
+🌱 I’m currently learning k8s, Azure DevOps and Ansible Windows integration<br>
 ⚡ Fun fact: I am lost but everyboy is lost in one way or another
 
 
